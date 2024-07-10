@@ -1,0 +1,20 @@
+.main{
+    margin: 100px;
+    border: 1px solid black;
+    padding:25px;
+}
+span{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    border: 1px solid black;
+    border-radius:100% ;
+    position: relative;
+    margin: 6px;
+    padding: 2px;
+    background-color:rgb(251, 239, 239);
+}
+h2{
+    margin-bottom:40px;
+}
